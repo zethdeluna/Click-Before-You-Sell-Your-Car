@@ -1,5 +1,5 @@
 # Click-Before-You-Sell-Your-Car
-In this project, we'll be practicing the basics of the machine learning workflow to predict a car's market price ussing its attributes, such as the motor's displacement, the weight of the car, the miles per gallon, etc.
+In this project, we'll be practicing the basics of the machine learning workflow to predict a car's market price using its attributes, such as the motor's displacement, the weight of the car, the miles per gallon, etc.
 
 ## The Data
 The data was taken from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) and can be downloaded [here](https://archive.ics.uci.edu/ml/datasets/automobile).
